@@ -1,10 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <supportedVersions>
-	   <li>1.0</li>
+	   <li>1.1</li>
   </supportedVersions>
   <name>Transmution</name>
-  <author>CaptainHaywood</author>
+  <author>SomewhereOutInSpace</author>
+  <packageId>SomewhereOutInSpace.Rimworld.Transmution</packageId>
   <description>Transmution is an efficient, reasonable late game way easily acquire vital resources without it feeling like cheating. Unlike other replicator mods, Transmution both requires you to input a resource to convert, and requires a special, expensive power source to further prevent abuse. I would especially recommend this mod to:
 
 * Anyone playing on a map with limited crucial resources, like an ice sheet or a flat forest

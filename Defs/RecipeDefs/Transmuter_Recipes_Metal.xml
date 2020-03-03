@@ -6,7 +6,7 @@
     <label>make a power cell</label>
     <description>Make a power cell.</description>
     <jobString>Making power cell.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -61,7 +61,7 @@
     <label>transmute a resource into steel</label>
     <description>Transmute a resource into steel.</description>
     <jobString>Transmuting resources into steel.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -111,7 +111,7 @@
     <label>bulk transmute a resource into steel</label>
     <description>Transmute a resource into steel in bulk.</description>
     <jobString>Transmuting resources into steel in bulk.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -161,7 +161,7 @@
     <label>transmute a resource into silver</label>
     <description>Transmute a resource into silver.</description>
     <jobString>Transmuting resources into silver.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -210,7 +210,7 @@
     <label>transmute a resource into gold</label>
     <description>Transmute a resource into gold.</description>
     <jobString>Transmuting resources into gold.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -256,7 +256,7 @@
     <label>transmute a resource into jade</label>
     <description>Transmute a resource into jade.</description>
     <jobString>Transmuting resources into jade.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -303,7 +303,7 @@
     <label>transmute a resource into uranium</label>
     <description>Transmute a resource into uranium.</description>
     <jobString>Transmuting resources into uranium.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -350,7 +350,7 @@
     <label>transmute a resource into plasteel</label>
     <description>Transmute a resource into plasteel.</description>
     <jobString>Transmuting resources into plasteel.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>

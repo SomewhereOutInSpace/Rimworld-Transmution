@@ -6,7 +6,7 @@
     <label>transmute a resource into Penoxycyline</label>
     <description>Transmute a resource into Penoxycyline.</description>
     <jobString>Transmuting resources into Penoxycyline.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -56,7 +56,7 @@
     <label>transmute a resource into smokeleaf joints</label>
     <description>Transmute a resource into smokeleaf joints.</description>
     <jobString>Transmuting resources into smokeleaf joints.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -106,7 +106,7 @@
     <label>transmute a resource into psychite tea</label>
     <description>Transmute a resource into psychite tea.</description>
     <jobString>Transmuting resources into psychite tea.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -156,7 +156,7 @@
     <label>transmute a resource into yayo</label>
     <description>Transmute a resource into yayo.</description>
     <jobString>Transmuting resources into yayo.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -206,7 +206,7 @@
     <label>transmute a resource into flake</label>
     <description>Transmute a resource into flake.</description>
     <jobString>Transmuting resources into flake.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -256,7 +256,7 @@
     <label>transmute a resource into wake-up</label>
     <description>Transmute a resource into wake-up.</description>
     <jobString>Transmuting resources into wake-up.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -306,7 +306,7 @@
     <label>transmute a resource into go-juice</label>
     <description>Transmute a resource into go-juice.</description>
     <jobString>Transmuting resources into go-juice.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -356,7 +356,7 @@
     <label>transmute a resource into luciferium</label>
     <description>Transmute a resource into luciferium.</description>
     <jobString>Transmuting resources into luciferium.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>

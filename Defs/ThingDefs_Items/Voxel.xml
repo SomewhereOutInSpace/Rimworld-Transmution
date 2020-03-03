@@ -38,7 +38,6 @@
         <MaxHitPoints>0.7</MaxHitPoints>
         <Flammability>0.4</Flammability>
       </statFactors>
-      <smeltable>false</smeltable>
     </stuffProps>
   </ThingDef>
 

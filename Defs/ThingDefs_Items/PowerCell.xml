@@ -29,7 +29,9 @@
 				<explosiveRadius>5.0</explosiveRadius>
 				<explosiveDamageType>Bomb</explosiveDamageType>
 				<explosiveExpandPerStackcount>0.037</explosiveExpandPerStackcount>
-				<startWickOnDamageTaken>Flame</startWickOnDamageTaken>
+				<startWickOnDamageTaken>
+          <li>Flame</li>    
+        </startWickOnDamageTaken>
 				<startWickHitPointsPercent>0.333</startWickHitPointsPercent>
 				<wickTicks>
 					<min>70</min>

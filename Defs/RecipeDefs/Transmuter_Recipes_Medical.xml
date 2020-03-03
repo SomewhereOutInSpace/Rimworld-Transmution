@@ -6,7 +6,7 @@
     <label>transmute a resource into herbal medicine</label>
     <description>Transmute a resource into herbal medicine.</description>
     <jobString>Transmuting resources into herbal medicine.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -56,7 +56,7 @@
     <label>transmute a resource into neutroamine</label>
     <description>Transmute a resource into neutroamine.</description>
     <jobString>Transmuting resources into neutroamine.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -106,7 +106,7 @@
     <label>transmute a resource into industrial medicine</label>
     <description>Transmute a resource into industrial medicine.</description>
     <jobString>Transmuting resources into industrial medicine.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>

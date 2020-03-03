@@ -6,7 +6,7 @@
     <label>transmute a resource into nutrient paste meals</label>
     <description>Transmute a resource into nutrient paste meals.</description>
     <jobString>Transmuting resources into nutrient paste meals.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -56,7 +56,7 @@
     <label>bulk transmute a resource into nutrient paste meals</label>
     <description>Transmute a resource into nutrient paste meals in bulk.</description>
     <jobString>Transmuting resources into nutrient paste meals in bulk.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -106,7 +106,7 @@
     <label>transmute a resource into simple meals</label>
     <description>Transmute a resource into simple meals.</description>
     <jobString>Transmuting resources into simple.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -148,7 +148,7 @@
     <label>transmute a resource into meat</label>
     <description>Transmute a resource into meat.</description>
     <jobString>Transmuting resources into meat.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -198,7 +198,7 @@
     <label>transmute a resource into corn</label>
     <description>Transmute a resource into corn.</description>
     <jobString>Transmuting resources into corn.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>

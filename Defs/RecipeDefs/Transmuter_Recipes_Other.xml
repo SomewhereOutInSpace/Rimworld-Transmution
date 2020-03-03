@@ -6,7 +6,7 @@
     <label>transmute a resource into components</label>
     <description>Transmute a resource into components.</description>
     <jobString>Transmuting resources into components.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -56,7 +56,7 @@
     <label>transmute a resource into wood</label>
     <description>Transmute a resource into wood.</description>
     <jobString>Transmuting resources into wood.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -106,7 +106,7 @@
     <label>bulk transmute a resource into wood</label>
     <description>Transmute a resource into wood in bulk.</description>
     <jobString>Transmuting resources into wood in bulk.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -156,7 +156,7 @@
     <label>transmute a resource into voxel blocks</label>
     <description>Transmute a resource into voxel blocks.</description>
     <jobString>Transmuting resources into voxel blocks.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -206,7 +206,7 @@
     <label>bulk transmute a resource into voxel blocks</label>
     <description>Transmute a resource into voxel blocks in bulk.</description>
     <jobString>Transmuting resources into voxel blocks in bulk.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -256,7 +256,7 @@
     <label>convert power cell energy into voxels</label>
     <description>convert power cell energy into voxels.</description>
     <jobString>Converting power cell energy into voxels..</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -279,7 +279,7 @@
     <label>bulk convert power cell energy into voxels</label>
     <description>convert power cell energy into voxels in bulk. WARNING - Extreme energy drain.</description>
     <jobString>Converting power cell energy into voxels in bulk.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -301,7 +301,7 @@
     <label>transmute raw materials into voxels</label>
     <description>Transmute a resource into voxels.</description>
     <jobString>Transmuting resources into voxels.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -351,7 +351,7 @@
     <label>bulk transmute raw materials into voxels</label>
     <description>Bulk transmute a resource into voxels.</description>
     <jobString>Bulk transmuting resources into voxels.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>

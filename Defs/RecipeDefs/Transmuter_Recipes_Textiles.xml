@@ -6,7 +6,7 @@
     <label>transmute a resource into cloth</label>
     <description>Transmute a resource into cloth.</description>
     <jobString>Transmuting resources into cloth.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -56,7 +56,7 @@
     <label>transmute a resource into Bluefur</label>
     <description>Transmute a resource into Bluefur.</description>
     <jobString>Transmuting resources into Bluefur.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -106,7 +106,7 @@
     <label>transmute a resource into camelhide</label>
     <description>Transmute a resource into camelhide.</description>
     <jobString>Transmuting resources into camelhide.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -156,7 +156,7 @@
     <label>transmute a resource into synthread</label>
     <description>Transmute a resource into synthread.</description>
     <jobString>Transmuting resources into synthread.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -201,7 +201,7 @@
     <label>transmute a resource into devilstrand</label>
     <description>Transmute a resource into devilstrand.</description>
     <jobString>Transmuting resources into devilstrand.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
@@ -246,7 +246,7 @@
     <label>transmute a resource into hyperweave</label>
     <description>Transmute a resource into hyperweave.</description>
     <jobString>Transmuting resources into hyperweave.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <recipeUsers>
